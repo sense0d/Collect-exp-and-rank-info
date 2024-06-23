@@ -1,0 +1,12 @@
+[   
+    {
+        "login": "acc_login_1",
+        "password": "password_1",
+        "secret": "shared_secret_1"
+    },
+    {
+        "login": "acc_login_2",
+        "password": "password_2",
+        "secret": "shared_secret_2"
+    }
+]
